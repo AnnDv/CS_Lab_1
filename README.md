@@ -14,7 +14,7 @@
 3. Parse the data within the imported policy;
 4. Save locally the file under a specific name;
 
-### Tehnologies
+### Technologies
 
 - IDE: Visual Studo Code
 - Python
